@@ -1,3 +1,7 @@
+import Main;
+import Main.Pessoa;
+
+package veryold;
 public class Main{
     public class Pessoa{
         private String nome;
